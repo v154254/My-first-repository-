@@ -1,1 +1,1 @@
-I think i know why there is no text here
+I think i know why there is no text here - hey notice how there is no changes from resolving conflict with merging
