@@ -1,1 +1,5 @@
-I think i know why there is no text here - hey notice how there is no changes from resolving conflict with merging
+I think i know why there is no text here
+Text from main: Hey notice how there is no changes from resolving conflict with merging
+Why previous text dissaperead? :(
+Well anyway
+
